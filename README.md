@@ -1,1 +1,1 @@
-This oNne is for my Git wokflow practise
+This one is for my Git wokflow practise
